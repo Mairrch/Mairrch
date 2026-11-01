@@ -1,4 +1,4 @@
-# ¡Hola! 🤍✨ 🌸
+# ¡Hola! 🤍✨🌸
 
 ## Sobre mí
 
@@ -36,6 +36,15 @@
 Herramientas aplicadas en **proyectos colaborativos**, **desafíos de hackatones** y **prácticas académicas** para el desarrollo de software, la estructuración de datos y el diseño de soluciones web.
 
 ---
+
+## 📔 Actualmente
+
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+- 💻 Profundizando en el desarrollo de interfaces dinámicas y basadas en componentes con **React**.
+- 📱 Explorando el desarrollo de aplicaciones móviles multiplataforma mediante **React Native** y **TypeScript**.
 
 ## 💌 Encuéntrame en
 
