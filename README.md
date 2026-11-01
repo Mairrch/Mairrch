@@ -31,11 +31,9 @@
 [![HTML](https://img.shields.io/badge/HTML-FF1493?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-C71585?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
 
-### Aplicación de Tecnologías
+### 📔 Aplicación de Tecnologías
 
 Herramientas aplicadas en **proyectos colaborativos**, **desafíos de hackatones** y **prácticas académicas** para el desarrollo de software, la estructuración de datos y el diseño de soluciones web.
-
----
 
 ### 📔 Actualmente
 
@@ -45,6 +43,8 @@ Herramientas aplicadas en **proyectos colaborativos**, **desafíos de hackatones
 
 - 💻 Profundizando en el desarrollo de interfaces dinámicas y basadas en componentes con **React**.
 - 📱 Explorando el desarrollo de aplicaciones móviles multiplataforma mediante **React Native** y **TypeScript**.
+
+---
 
 ## 💌 Encuéntrame en
 
