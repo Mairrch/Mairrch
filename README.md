@@ -1,13 +1,24 @@
 # ¡Hola! 🤍✨ 🌸
 
----
-
 ## Sobre mí
 
 - 🎓🎀 **Carrera:** Ingeniería en Computación
 - 💻🌸 **Intereses:** Desarrollo Web e Inteligencia Artificial
 
 ---
+## ⚡ Proyectos
+
+1. **[JuegoRSA](https://github.com/Mairrch/JuegoRSA)**
+   - **Descripción:** Juego interactivo que permite cifrar y descifrar archivos y documentos mediante el uso de claves públicas y privadas, aplicando conceptos matemáticos relacionados con la criptografía.
+   - **Tecnologías:** Python
+
+2. **[Poli-Lost-and-Found](https://github.com/Sam-ai06/Poli-Lost-and-Found)**
+   - **Descripción:** Plataforma universitaria multiplataforma (Findyp) para registrar, reportar, buscar y recuperar objetos extraviados en campus universitarios. Incluye geolocalización mediante mapas interactivos y gestión de reportes con Supabase.
+   - **Tecnologías:** TypeScript, JavaScript, React Native, Expo, Supabase, PostgreSQL
+
+3. **[IEEE Event Talent DB](https://github.com/IEEEComputerSocietyESPOL/ieee_event_talent_db)**
+   - **Descripción:** Sistema web interactivo por pasos (Multi-step Form) desarrollado para la WIE Week en colaboración con el IEEE Computer Society ESPOL Student Chapter. Permite a los estudiantes registrar sus perfiles profesionales, áreas de interés técnico, redes sociales y CV en PDF.
+   - **Tecnologías:** Python, Django, HTML5, CSS3, JavaScript, AJAX (Fetch API)
 
 ## 🌷 Skills
 
