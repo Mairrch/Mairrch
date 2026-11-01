@@ -3,9 +3,11 @@
 ## Sobre mí
 
 - 🎓🎀 **Carrera:** Ingeniería en Computación
-- 💻🌸 **Intereses:** Desarrollo Web e Inteligencia Artificial
+- 💻🌸 **Intereses:** Desarrollo Web, Interfaces de Usuario (UI) e Inteligencia Artificial.
+- 🎖️🌷 **Objetivo:** Continuar desarrollando proyectos de software de impacto real mientras fortalezco mis habilidades en tecnologías web y móviles.
 
 ---
+
 ## ⚡ Proyectos
 
 1. **[JuegoRSA](https://github.com/Mairrch/JuegoRSA)**
