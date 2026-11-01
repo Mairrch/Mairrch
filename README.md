@@ -28,8 +28,12 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 [![R](https://img.shields.io/badge/R-FF69B4?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![SQL](https://img.shields.io/badge/SQL-DB7093?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-FF1493?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
+[![HTML](https://img.shields.io/badge/HTML-FF1493?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/es/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-C71585?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
+
+### Aplicación de Tecnologías
+
+Herramientas aplicadas en **proyectos colaborativos**, **desafíos de hackatones** y **prácticas académicas** para el desarrollo de software, la estructuración de datos y el diseño de soluciones web.
 
 ---
 
